@@ -7,6 +7,6 @@ Belajar kelas Git dan Github. (Progress 30%)
   - Dasar dasar github
 
 **11 February 2022**
- Belajar kelas git dan github. (progress 50%(
+ Belajar kelas git dan github. (progress 50%)
  - Belajar Pull Request
  - Git branches
